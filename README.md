@@ -7,4 +7,4 @@ To get started with this project, will need to have Git and Emacs installed on o
 
 Prerequisites:
 Git
-Emacs
+Emacs# zero_day
