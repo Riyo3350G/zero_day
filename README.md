@@ -1,4 +1,4 @@
-Open the terminal on your computer
+Open the *terminal* on your computer
 Type cd ~ to navigate to your home directory
 Type mkdir zero_day to create a new directory called zero_day
 Type cd zero_day to navigate to the new directory
